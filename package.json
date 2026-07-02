@@ -1,0 +1,14 @@
+{
+  "name": "naturals-kumarapuram",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Naturals Kumarapuram - Unisex Salon website",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
